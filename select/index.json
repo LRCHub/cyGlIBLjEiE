@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Evil Bubble / 藍月なくる covered by 棗いつき",
+  "base_artist": "棗いつき",
+  "createdAt": "2025-12-05T09:04:32.956469Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Evil Bubble",
+      "artist": "Aitsuki, Nakuru",
+      "has_synced": false,
+      "path": "select/01_Evil_Bubble_Aitsuki,_Nakuru.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Evil Bubble",
+      "artist": "Nakuru Aitsuki",
+      "has_synced": true,
+      "path": "select/02_Evil_Bubble_Nakuru_Aitsuki.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Evil Bubble",
+      "artist": "棗いつき",
+      "has_synced": false,
+      "path": "select/pl_01_Evil_Bubble_棗いつき.txt"
+    }
+  ]
+}
